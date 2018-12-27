@@ -104,5 +104,7 @@ local/
 _build
 
 # pytest
-
 .pytest_cache
+
+# Python Decouple
+systers_portal/.env
